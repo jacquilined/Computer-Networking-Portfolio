@@ -5,11 +5,11 @@
 ### DNS Analysis
 Module 04
 
-### IP Networking
-Module 10
-
 ### Python Web Server
 Module 09
+
+### IP Networking
+Module 10
 
 ## 🛠️ Tools
 - Wireshark
